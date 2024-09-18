@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Primer contenido del qrchivo
 Segunda linea agregada en la rama2
+=======
+Primer contenido del archivo
+Segunda linea agregada desde la rama1
+>>>>>>> rama1
