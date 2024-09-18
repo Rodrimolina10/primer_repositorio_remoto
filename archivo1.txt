@@ -1,1 +1,2 @@
 Primer contenido del qrchivo
+Segunda linea agregada en la rama2
